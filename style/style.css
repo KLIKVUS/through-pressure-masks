@@ -12,16 +12,19 @@
     box-sizing: border-box;
 }
 
-ul {
-    list-style: none;
+body, html {
+    background-color: var(--main-bg-color);
 }
 
 html {
     color: var(--main-color);
-    background-color: var(--main-bg-color);
 
     height: 100%;
     width: 100%;
+}
+
+ul {
+    list-style: none;
 }
 
 .content-wrapper {
