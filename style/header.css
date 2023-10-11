@@ -34,5 +34,6 @@
 }
 
 .header__highlighted-text {
+    font-family: "Cormorant";
     color: var(--second-color);
 }
