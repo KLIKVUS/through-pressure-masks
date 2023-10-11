@@ -21,3 +21,10 @@
 .main__list {
     line-height: 25px;
 }
+
+.main__img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    max-width: 500px;
+}
