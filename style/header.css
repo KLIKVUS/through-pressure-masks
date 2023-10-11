@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: flex-end;
+
+    height: 640px;
+}
+
+.header__title-block {
+    padding: 20px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__rectangle {
+    display: inline-block;
+    width: 70px;
+    height: 170px;
+
+    background-color: var(--second-bg-color);
+}
+
+.header__title {
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.header__title-item {
+    display: block;
+}
+
+.header__highlighted-text {
+    color: var(--second-color);
+}

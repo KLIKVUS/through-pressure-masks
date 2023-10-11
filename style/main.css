@@ -1,0 +1,23 @@
+.main {
+    margin-top: 50px;
+    color: #333;
+    /* color: var(--third-color); */
+    /* background-color: var(--second-bg-color); */
+    text-align: center;
+}
+
+.main__content-wrapper {
+    margin: 0 20px;
+}
+
+.main__titel {
+    margin-top: 50px;
+}
+
+.main__list-title {
+    margin-top: 20px;
+}
+
+.main__list {
+    line-height: 25px;
+}
